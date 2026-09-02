@@ -17,7 +17,6 @@ completeness through inference.
 ## 2. OBJECTIVE
 
 Extract:
-
 1. Explicit decisions
 2. Actual action items
 3. Risks
